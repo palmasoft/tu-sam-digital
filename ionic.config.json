@@ -1,0 +1,7 @@
+{
+  "name": "TuSAM Digital",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
